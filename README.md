@@ -1,4 +1,5 @@
 # ocr -> 
+index.html + app.py -> are used to covert the pdf and image into the text file (.txt file) 
 
 ocr_multi -> is used for vs code  and it shows the output inside the vs code terminal 
 
