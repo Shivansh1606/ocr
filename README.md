@@ -1,7 +1,8 @@
 # ocr -> 
 index.html + app.py -> are used to covert the pdf and image into the text file (.txt file) 
-For proper working of this we has to install 3 thing:
-  1. pip install flask flask-cors pillow pytesseract pdf2image
+
+For proper working of this we has to install 3 things:
+  1. pip install flask flask-cors pillow pytesseract pdf2image  (run in VS code terminal)
   2. Tesseract OCR (for image/text extraction)
       Download Link: https://github.com/UB-Mannheim/tesseract/wiki and then Set the path in Python code.
   3. Poppler (for PDF → image conversion)
